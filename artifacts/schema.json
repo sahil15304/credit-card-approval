@@ -1,0 +1,22 @@
+{
+  "categorical": [
+    "cat_status_like",
+    "cat_job_like",
+    "cat_education_like",
+    "cat_marital_like",
+    "cat_residence_like",
+    "cat_property_like",
+    "cat_bankacct_like",
+    "cat_prior_default_like",
+    "cat_phone_like"
+  ],
+  "numeric": [
+    "num_metric_1",
+    "num_metric_2",
+    "num_metric_3",
+    "num_metric_4",
+    "num_metric_5",
+    "num_metric_6"
+  ],
+  "label": "approved"
+}
